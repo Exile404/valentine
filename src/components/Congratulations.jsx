@@ -9,7 +9,7 @@ const Congratulations = () => {
         className="mb-8 rounded-md shadow-lg"
       />
       <div className="text-white text-4xl font-bold p-8 rounded-md shadow-lg">
-        <span role="img" aria-label="Celebration">🎉</span> Congratulations <span role="img" aria-label="Heart">❤️</span>
+        <span role="img" aria-label="Celebration">🎉</span> Yeeeeee... You're mine finally... I am lucky to have youuu... I love youuu<span role="img" aria-label="Heart">❤️</span>
       </div>
     </div>
   );
