@@ -57,7 +57,7 @@ const Decision = ({ onYesClick, onNoClick }) => {
   return (
     <div className="flex flex-col justify-center items-center h-screen bg-gradient-to-r from-pink-300 to-red-500">
     
-      <p className="text-white text-2xl mb-4">❤️❤️❤️Will you be my Valentine??❤️❤️❤️</p>
+      <p className="text-white text-2xl mb-4">❤️❤️❤️Will you be my Queen??❤️❤️❤️</p>
       <button
         onClick={onYesClick}
         className={`bg-green-800 text-white mb-2 ${
